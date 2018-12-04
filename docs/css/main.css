@@ -2995,14 +2995,14 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-main {
-  margin-top: 14.4rem;
+  margin-top: 5.4rem;
   margin-bottom: 4.8rem;
 }
 
 .contact-email {
   display: inline-block;
   font-family: "metropolis-light", sans-serif;
-  font-size: 3.8rem;
+  font-size: 3.5rem;
   line-height: 1.222;
   color: #ffffff;
   padding-top: 3.6rem;
