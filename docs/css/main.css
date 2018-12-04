@@ -1343,8 +1343,7 @@ input::-moz-focus-inner {
   transition: all 0.3s ease-in-out;
 }
 .header-logo img {
-  width: 200px;
-  height: 38px;
+  
 }
 
 
@@ -1629,8 +1628,7 @@ input::-moz-focus-inner {
     left: 30px;
   }
   .header-logo img {
-    width: 180px;
-    height: 34px;
+   margin-top: 4em;
   }
 
   .header-menu-toggle {
@@ -1652,8 +1650,6 @@ input::-moz-focus-inner {
     left: 25px;
   }
   .header-logo img img {
-    width: 141px;
-    height: 27px;
   }
 
   .header-menu-toggle {
