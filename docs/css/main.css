@@ -2998,7 +2998,7 @@ html.no-csstransitions .home-content__main {
 .contact-email {
   display: inline-block;
   font-family: "metropolis-light", sans-serif;
-  font-size: 3.2rem;
+  font-size: 5.2rem;
   line-height: 1.222;
   color: #ffffff;
   padding-top: 3.6rem;
@@ -3230,7 +3230,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email {
-    font-size: 5rem;
+    font-size: 4.6rem;
   }
 
   .contact-number {
@@ -3251,7 +3251,7 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 1000px) {
   .contact-email {
-    font-size: 4.2rem;
+    font-size: 3.8rem;
   }
 
   .contact-number {
@@ -3282,7 +3282,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email {
-    font-size: 3.6rem;
+    font-size: 3rem;
   }
 
   .contact-number {
@@ -3320,7 +3320,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email {
-    font-size: 3rem;
+    font-size: 2.1rem;
   }
 
   .contact-number {
@@ -3377,7 +3377,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .contact-email {
-    font-size: 2.4rem;
+    font-size: 1.9rem;
   }
 
   .contact-number {
