@@ -8,7 +8,7 @@
     "use strict";
     
     var cfg = {
-        scrollDuration : 800, // smoothscroll duration
+        scrollDuration : 100, // smoothscroll duration
         mailChimpURL   : 'https://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e6957d85dc'   // mailchimp url
     },
 
@@ -282,10 +282,10 @@
     var clAOS = function() {
         
         AOS.init( {
-            offset: 200,
-            duration: 600,
+            offset: 150,
+            duration: 400,
             easing: 'ease-in-sine',
-            delay: 300,
+            delay: 250,
             once: true,
             disable: 'mobile'
         });
